@@ -1,5 +1,5 @@
 # genererAttestation
-Un script python pour générer l'attestation dérogatoire.
+Un script python pour générer l'attestation dérogatoire en utilisant selenium (Driver Firefox).
 
 # Comment ça marche
 
