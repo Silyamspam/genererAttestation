@@ -31,3 +31,9 @@ enfin, installer le dernier package pour l'automatisation du formulaire :
 ```python
 pip3 install selenium
 ```
+
+# Pour le lancer
+pour lancer le script, il suffit :
+```python
+python main.py
+```
